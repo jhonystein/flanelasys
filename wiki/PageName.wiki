@@ -1,6 +1,5 @@
-#summary One-sentence summary of this page.
-
 = Todo List =
 
-* Lista de carros liberados no dia
-* Melhorias na parte de clientes, para saber quando o cara estacionou a primeira vez, a ultima vez, e também uma lista de todas as vezes que estacionou
+
+1. Lista de carros liberados no dia
+2. Melhorias na parte de clientes, para saber quando o cara estacionou a primeira vez, a ultima vez, e também uma lista de todas as vezes que estacionou

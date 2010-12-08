@@ -5,3 +5,11 @@
 
 
 2. Melhorias na parte de clientes, para saber quando o cara estacionou a primeira vez, a ultima vez, e também uma lista de todas as vezes que estacionou
+
+3. Implementar módulo mensalistas
+
+4. Implementar módulo lavação
+
+5. Implementar módulo webcam
+
+6. Implementar módulo Matriz e Filiais

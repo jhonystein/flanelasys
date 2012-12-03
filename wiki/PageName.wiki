@@ -3,13 +3,23 @@
 
 1. Lista de carros liberados no dia
 
+2. Opção para cadastrar "Crédito/Saldo Devedor" para os rotativos
 
-2. Melhorias na parte de clientes, para saber quando o cara estacionou a primeira vez, a ultima vez, e também uma lista de todas as vezes que estacionou
+3. Correções:
+3.1 Corrigir problema que permite ter dois carros diferentes com mesma placa
+3.2 Não está salvando os dados de cadastro da empresa (verificar tamanho do campo no banco de dados)
 
-3. Implementar módulo mensalistas
+4. Disponibilizar no "Dashboard" lista de mensalistas com mensalidade "A vencer" e "Vencidos"
 
-4. Implementar módulo lavação
+5. No módulo de RPS, ter opção de visualizar recibo PDF da RPS
+5.1 Não ter opção de escolher qual RPS enviar para prefeitura (toda RPS gerada deve ser enviada para a prefeitura)
+5.2 Melhorar a visualização do arquivo de lote
+5.3 Incluir menu de ajuda para envio do lote para o site da prefeitura
 
-5. Implementar módulo webcam
+6. Implementar módulo lavação
 
-6. Implementar módulo Matriz e Filiais
+7. Implementar módulo webcam
+
+8. Implementar módulo Matriz e Filiais
+8.1 Opção de login de funcionário há uma ou mais filiais
+8.2 Adaptar tabelas para suporte a multiplos locais

@@ -8,6 +8,8 @@
 3. Correções:
 3.1 Corrigir problema que permite ter dois carros diferentes com mesma placa
 3.2 Não está salvando os dados de cadastro da empresa (verificar tamanho do campo no banco de dados)
+3.3 Quando libera carro não aparece marca e cor
+3.4 
 
 4. Disponibilizar no "Dashboard" lista de mensalistas com mensalidade "A vencer" e "Vencidos"
 
@@ -15,6 +17,8 @@
 5.1 Não ter opção de escolher qual RPS enviar para prefeitura (toda RPS gerada deve ser enviada para a prefeitura)
 5.2 Melhorar a visualização do arquivo de lote
 5.3 Incluir menu de ajuda para envio do lote para o site da prefeitura
+
+6. Não permite dar entrada de mensalista no rotativo
 
 6. Implementar módulo lavação
 

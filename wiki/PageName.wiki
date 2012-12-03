@@ -23,3 +23,5 @@
 8. Implementar módulo Matriz e Filiais
 8.1 Opção de login de funcionário há uma ou mais filiais
 8.2 Adaptar tabelas para suporte a multiplos locais
+
+9. Providenciar arquivos de icone.

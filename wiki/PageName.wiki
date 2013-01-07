@@ -1,15 +1,11 @@
 = Todo List =
 
-
 1. Lista de carros liberados no dia
 
 2. Opção para cadastrar "Crédito/Saldo Devedor" para os rotativos
 
 3. Correções:
-3.1 Corrigir problema que permite ter dois carros diferentes com mesma placa
-3.2 Não está salvando os dados de cadastro da empresa (verificar tamanho do campo no banco de dados)
-3.3 Quando libera carro não aparece marca e cor
-3.4 
+3.1 Problema com horário do sistema
 
 4. Disponibilizar no "Dashboard" lista de mensalistas com mensalidade "A vencer" e "Vencidos"
 
@@ -20,6 +16,10 @@
 
 6. Não permite dar entrada de mensalista no rotativo
 
+7. Ao imprimir cupom de entrada, exibir a hora de entrada do veículo
+
+8. Quando for dado entrada de uma mensalidade, ter opção para imprimir recibo.
+
 6. Implementar módulo lavação
 
 7. Implementar módulo webcam
@@ -29,3 +29,5 @@
 8.2 Adaptar tabelas para suporte a multiplos locais
 
 9. Providenciar arquivos de icone.
+
+10. Providenciar site.

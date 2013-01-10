@@ -1,35 +1,28 @@
-= Todo List =
+= Pendências Flanelasys =
 
-1. Lista de carros liberados no dia
+==Correções==
+  * Quando é dado entrada de um Scenic dá erro no cupom de entrada
+  * Quando o cliente ainda não tem mensalidades pagas, aparece uma linha com valores zero.
+  * No cadastro de mensalidades do cliente não retorna a mensalidade correta
+  * Verificar segurança de acesso as páginas sem autenticação
+  * Verificar layout padrão em todas as telas
 
-2. Opção para cadastrar "Crédito/Saldo Devedor" para os rotativos
-
-3. Correções:
-3.1 Quando é dado entrada de um Scenic dá erro no cupom de entrada
-3.2 Quando o cliente ainda não tem mensalidades pagas, aparece uma linha com valores zero.
-3.3 No cadastro de mensalidades do cliente não retorna a mensalidade correta
-
-4. Disponibilizar no "Dashboard" lista de mensalistas com mensalidade "A vencer" e "Vencidos"
-
-5. No módulo de RPS, ter opção de visualizar recibo PDF da RPS
-5.1 Não ter opção de escolher qual RPS enviar para prefeitura (toda RPS gerada deve ser enviada para a prefeitura)
-5.2 Melhorar a visualização do arquivo de lote
-5.3 Incluir menu de ajuda para envio do lote para o site da prefeitura
-
-6. Não permite dar entrada de mensalista no rotativo
-
-7. Ao imprimir cupom de entrada, exibir a hora de entrada do veículo
-
-8. Quando for dado entrada de uma mensalidade, ter opção para imprimir recibo.
-
-6. Implementar módulo lavação
-
-7. Implementar módulo webcam
-
-8. Implementar módulo Matriz e Filiais
-8.1 Opção de login de funcionário há uma ou mais filiais
-8.2 Adaptar tabelas para suporte a multiplos locais
-
-9. Providenciar arquivos de icone.
-
-10. Providenciar site.
+==Melhorias==
+  * Lista de carros liberados no dia
+  * Opção para cadastrar "Crédito/Saldo Devedor" para os rotativos
+  * Tornar a coluna des_placa como unique na tabela fla_clientes
+  * Disponibilizar no "Dashboard" lista de mensalistas com mensalidade "A vencer" e "Vencidos"
+  * Permitir alterar/acrescentar dados de clientes durante geração do arquivo de lote
+  * Incluir relatório de mensalidades recebidas
+  * RPS
+    * No módulo de RPS, ter opção de visualizar recibo PDF da RPS
+    * Não ter opção de escolher qual RPS enviar para prefeitura (toda RPS gerada deve ser enviada para a prefeitura)
+    * Melhorar a visualização do arquivo de lote
+    * Incluir menu de ajuda para envio do lote para o site da prefeitura
+  * Implementar módulo lavação
+  * Implementar módulo webcam
+  * Implementar módulo Matriz e Filiais
+  * Opção de login de funcionário há uma ou mais filiais
+  * Adaptar tabelas para suporte a multiplos locais
+  * Providenciar arquivos de icone.
+  * Providenciar site.

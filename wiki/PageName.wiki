@@ -5,7 +5,9 @@
 2. Opção para cadastrar "Crédito/Saldo Devedor" para os rotativos
 
 3. Correções:
-3.1 Problema com horário do sistema
+3.1 Quando é dado entrada de um Scenic dá erro no cupom de entrada
+3.2 Quando o cliente ainda não tem mensalidades pagas, aparece uma linha com valores zero.
+3.3 No cadastro de mensalidades do cliente não retorna a mensalidade correta
 
 4. Disponibilizar no "Dashboard" lista de mensalistas com mensalidade "A vencer" e "Vencidos"
 

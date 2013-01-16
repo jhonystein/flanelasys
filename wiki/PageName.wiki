@@ -3,6 +3,7 @@
 ==Correções==
   * Verificar segurança de acesso as páginas sem autenticação
   * Verificar layout padrão em todas as telas
+  * Sistema ainda permite entrada de veículos mensalista como rotativo
 
 ==Melhorias==
   * Lista de carros liberados no dia

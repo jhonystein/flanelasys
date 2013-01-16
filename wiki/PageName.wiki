@@ -1,9 +1,6 @@
 = Pendências Flanelasys =
 
 ==Correções==
-  * Quando é dado entrada de um Scenic dá erro no cupom de entrada
-  * Quando o cliente ainda não tem mensalidades pagas, aparece uma linha com valores zero.
-  * No cadastro de mensalidades do cliente não retorna a mensalidade correta
   * Verificar segurança de acesso as páginas sem autenticação
   * Verificar layout padrão em todas as telas
 
